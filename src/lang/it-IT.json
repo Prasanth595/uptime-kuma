@@ -1732,5 +1732,6 @@
     "Variable ID": "ID variabile",
     "indigoVariableIdHelptext": "Il messaggio di avviso viene scritto in questa variabile.",
     "Action Group ID": "ID gruppo di azioni",
-    "indigoActionGroupIdHelptext": "Viene eseguito dopo l'aggiornamento della variabile. Imposta una variabile, un gruppo di azioni o entrambi. Copia gli ID da Indigo usando il tasto destro del mouse → Copia ID."
+    "indigoActionGroupIdHelptext": "Viene eseguito dopo l'aggiornamento della variabile. Imposta una variabile, un gruppo di azioni o entrambi. Copia gli ID da Indigo usando il tasto destro del mouse → Copia ID.",
+    "browserlessSupportedVersion": "Versione Browserless supportata: {version}"
 }
